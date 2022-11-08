@@ -1,0 +1,18 @@
+Data Structure
+1) Primitive DS
+2) Non-Primitive DS
+
+Primitive DS - 1) Integer
+               2) Float
+               3) Character
+               4) Pointer
+
+Non-Primitive DS
+  
+  I) Linear List -  1) Array
+                    2) Link List
+                    3) Stack
+                    4) Queue
+
+  II) Non-Linear List - 1) Graph
+                        2) Trees
