@@ -13,6 +13,7 @@ int main(){
     printf("Enter %dst number: ",i+1);
     scanf("%d",&a[i]);
   }
+  // Bubble sort
   for(pass=0;pass<c-1;pass++){ // If c=5, then total passes = 4
     for(i=0;i<c-pass-1;i++){ // Show How many swap we need, if its 1st pass means pass=0 then 5-0-1 4 swaps after that pass = 1 then 5-1-1 total 3 passes and so on.
       if(a[i]>a[i+1]){
